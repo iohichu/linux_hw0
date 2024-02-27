@@ -1,0 +1,13 @@
+#!/bin/bash
+
+ set -e 
+ mkdir -p /opt/folder
+
+ echo "hello"
+ date 
+ 
+ NAME=ivan
+ echo "hello $NAME"
+
+  
+
